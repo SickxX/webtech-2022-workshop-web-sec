@@ -5,9 +5,8 @@ Authentification Fehler und wie man sie verhindert
 In diesem Repository befinden sich die Präsentation als keynote und als pdf im Ordner [slides](./slides/), die Aufgabentexte im Ordner [challenges](./challenges/), und die hackbare Umgebung als Submodule im Ordner [juice-shop](./juice-shop/). 
 
 ## Requisiten
--
 - [node.JS](https://nodejs.org/en/)
-- []()
+- [Burp suite Community Edition](https://portswigger.net/burp/releases/professional-community-2022-3-6?requestededition=community&requestedplatform=)
 ## Setup Repo mit Submodules
 Repo klonen mit 
 ```sh
