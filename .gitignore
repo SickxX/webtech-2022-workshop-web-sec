@@ -351,5 +351,8 @@ MigrationBackup/
 
 # juice
 juice-shop
+
 # Solutions
-solutions/*
+solutions/sol_1.md
+solutions/sol_2.md
+solutions/sol_3.md
