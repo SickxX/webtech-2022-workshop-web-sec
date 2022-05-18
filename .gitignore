@@ -350,7 +350,7 @@ MigrationBackup/
 .ionide/
 
 # juice
-juice-shop
+juice-shop/
 
 # Solutions
 exercises/solutions/sol_[0-4].md
