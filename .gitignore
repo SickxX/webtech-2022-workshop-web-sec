@@ -352,4 +352,4 @@ MigrationBackup/
 # juice
 juice-shop
 # Solutions
-.exercises/solutions/*
+solutions/
