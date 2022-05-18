@@ -353,6 +353,4 @@ MigrationBackup/
 juice-shop
 
 # Solutions
-solutions/sol_1.md
-solutions/sol_2.md
-solutions/sol_3.md
+sol_[0-4].md
