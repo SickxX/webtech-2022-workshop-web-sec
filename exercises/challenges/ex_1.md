@@ -1,5 +1,5 @@
 # Aufgabe 1.1
-Loggen sie sich in den Administrator-Account ein, ohne sql-injection zu nutzen.
+Loggen sie sich in den Administrator-Account ein, ohne sql-injection zu nutzen oder das Passwort vorher zu ändern.
 ## Hinweise
 - Durch die Reviews gucken
 - Einfach mal raten
